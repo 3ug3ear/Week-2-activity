@@ -2,6 +2,7 @@ h1 {
     background-color:indigo ;
     padding: 10px 20px 10px 20px;
     margin: 10px 20px 10px 20px;
+    text-align: center;
 }
 p {
     background-color: burlywood;
@@ -9,4 +10,10 @@ p {
 }
 .p1 {
     width: 300px;
+}
+.align1{
+    text-align: left;
+}
+.align2{
+    text-align: center;
 }
